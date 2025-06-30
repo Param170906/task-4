@@ -26,16 +26,16 @@
 ![Query 6](screenshots/query6.png)
 
 ### 7️⃣ Subquery: Product with Maximum Quantity Sold  
-![Query 7](screenshots/query7.png)
+![Query 7](screenshots/query8.png)
 
 ### 8️⃣ Average Unit Price  
-![Query 8](screenshots/query8.png)
+![Query 8](screenshots/query11.png)
 
 ### 9️⃣ Create View: Sales by Country  
-![Query 9](screenshots/query9.png)
+![Query 9](screenshots/query12.png)
 
 ### 🔟 Create Indexes for Optimization  
-![Query 10](screenshots/query10.png)
+![Query 10](screenshots/query13.png)
 
 ---
 
