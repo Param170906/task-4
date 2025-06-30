@@ -41,7 +41,7 @@
 
 ## 👤 Author
 **Parampreet Singh Ahluwalia**  
-🔗 LinkedIn: [https://www.linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/YOUR_USERNAME)
+🔗 LinkedIn: [https://www.linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/parampreet-singh-ahluwalia-0704582b1/))
 
 ---
 
